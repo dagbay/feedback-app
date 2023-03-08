@@ -1,0 +1,34 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This is a feedback item 1 coming from the mock backend server."
+    },
+    {
+      "id": 2,
+      "rating": 8,
+      "text": "This is a feedback item 2 coming from the mock backend server."
+    },
+    {
+      "id": 3,
+      "rating": 4,
+      "text": "This is a feedback item 3 coming from the mock backend server."
+    },
+    {
+      "id": 4,
+      "rating": 3,
+      "text": "This is a feedback item 4 coming from the mock backend server."
+    },
+    {
+      "id": 5,
+      "rating": 10,
+      "text": "This is a feedback item 5 coming from the mock backend server."
+    },
+    {
+      "text": "asdasdasdasdasdasasdasd",
+      "rating": 8,
+      "id": 7
+    }
+  ]
+}
